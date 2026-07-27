@@ -1,8 +1,28 @@
 aid: gooddog
-name: Gooddog
-description: Gooddog is a company surfaced as a portfolio company of felicis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Good Dog
+description: >-
+  Good Dog is a marketplace that connects people looking for a dog with a vetted national
+  network of ethical breeders, animal shelters, and rescues. The platform screens every
+  source against standards developed with veterinary experts, requires all payments to be
+  processed securely on-platform to protect both buyers and sellers, and supports new
+  owners with a Learning Center, lifetime access to Care Specialists, puppy training
+  resources, and pet insurance options. Over 250,000 families have found their dog through
+  Good Dog. It is a consumer-facing web and mobile marketplace; as of this profile no
+  public developer API, SDK, or integration program is published. Surfaced as a portfolio
+  company of Felicis and profiled in the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/gooddog/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://d3requdwnyz98t.cloudfront.net/assets/pages/index/gooddog_meta_img-6942a3a13867f635124dc29568e3e375bb7eb34261113c230af4c7ba51d5f120.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +31,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Marketplace
+- Pets
+- Dogs
+- Breeders
+- Animal Welfare
+- Consumer
+- Payments
+- Pet Insurance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +50,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://gooddog.com
+  url: https://www.gooddog.com
+- type: Support
+  url: https://www.gooddog.com/help
+- type: Blog
+  url: https://www.gooddog.com/learning-center
+- type: SignUp
+  url: https://www.gooddog.com/join
+- type: TermsOfService
+  url: https://www.gooddog.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.gooddog.com/privacy-policy
+- type: DomainSecurity
+  url: security/gooddog-domain-security.yml
+- type: LLMsTxt
+  url: llms/gooddog-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

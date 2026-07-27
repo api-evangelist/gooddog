@@ -1,0 +1,26 @@
+# Good Dog
+
+> Good Dog is a marketplace that connects people looking for a dog with a vetted national network of ethical breeders, animal shelters, and rescues. The platform screens sources against veterinarian-developed standards, processes payments securely on-platform, and supports owners with a Learning Center, Care Specialists, and pet insurance options. Over 250,000 families have found a dog through Good Dog. No public API or developer program is published as of this writing.
+
+## Company
+- [Good Dog home](https://www.gooddog.com/): Connect with ethical breeders, shelters, and rescues.
+- [About us](https://www.gooddog.com/about-us): Who Good Dog is and how the marketplace works.
+- [Our mission](https://www.gooddog.com/our-mission): Good Dog's mission for ethical, healthy sourcing.
+- [Standards and screening](https://www.gooddog.com/standards-and-screening): How breeders, shelters, and rescues are vetted.
+
+## Find a dog
+- [Learning Center](https://www.gooddog.com/learning-center): Expert content on breeds, care, and finding a dog.
+- [Breeder directory](https://www.gooddog.com/directory/breeders): Browse trusted breeders.
+- [Pet insurance](https://www.gooddog.com/pet-insurance): Pet insurance options for owners.
+- [Join / log in](https://www.gooddog.com/join): Create an account to find a dog.
+
+## For breeders, shelters, and rescues
+- [Good Breeder Center](https://www.gooddog.com/good-breeder-center): Resources and guidance for breeders.
+- [Join as a breeder](https://www.gooddog.com/join-as-breeder): Apply to list as a breeder.
+- [Join as a shelter or rescue](https://www.gooddog.com/join-as-shelter-or-rescue): Apply to list as a shelter or rescue.
+- [Shelter/rescue code of ethics](https://www.gooddog.com/shelter-rescue-code-of-ethics): Standards for shelters and rescues.
+
+## Legal and support
+- [Help Center](https://www.gooddog.com/help): Support articles for owners and breeders.
+- [Terms of Service](https://www.gooddog.com/terms-of-service)
+- [Privacy Policy](https://www.gooddog.com/privacy-policy)
